@@ -1,4 +1,4 @@
-.hg
+.downhg
 .gradle
 build
 target
@@ -12,3 +12,7 @@ out
 Thumbs.db
 /public/
 ./leveldb-*
+.settings
+.metals
+.mvn
+.project
